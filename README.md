@@ -5,7 +5,7 @@ EMOTICBEAT is an emotion-based music recommendation system designed to enhance y
 Project Overview
 Music has the power to influence our emotions, and EMOTICBEAT takes this to the next level. By capturing real-time facial expressions, it can detect one of seven emotions—Angry, Disgust, Fear, Happy, Sad, Surprise, or Neutral—and generate a mood-matching playlist. This application can be especially valuable in environments such as hospitals, clinics, or public spaces where influencing a positive atmosphere is beneficial.
 
-Features
+Features<br>
 Emotion Recognition: Uses a combination of the Haar Cascade and FER (Facial Emotion Recognition) algorithms to accurately classify facial expressions.
 Music Recommendation: Automatically curates a playlist based on detected emotions.
 User-Friendly Interface: A simple, clean interface built using HTML, CSS, and JavaScript.
