@@ -40,5 +40,5 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 License<br>
 This project is licensed under the MIT License.<br>
 
-Acknowledgments
-Special thanks to the resources and datasets used, including FER datasets from Kaggle, TensorFlow, and OpenCV documentation.
+Acknowledgments<br>
+Special thanks to the resources and datasets used, including FER datasets from Kaggle, TensorFlow, and OpenCV documentation.<br>
