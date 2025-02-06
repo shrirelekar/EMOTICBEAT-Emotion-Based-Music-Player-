@@ -1,5 +1,4 @@
-# EMOTICBEAT<br><br>
-
+# EMOTICBEAT: AI-Powered Emotion-Based Music Player<br><br>
 EMOTICBEAT is an emotion-based music recommendation system designed to enhance your music listening experience. By analyzing facial expressions through a webcam, EMOTICBEAT detects the user’s emotional state and selects music that matches or uplifts their mood, eliminating the need for manual playlist curation.<br><br>
 
 Project Overview<br>
